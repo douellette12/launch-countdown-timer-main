@@ -1,1 +1,3 @@
-# launch-countdown-timer-main
+# Launch Countdown Timer
+
+## Basic HTML, CSS and JavaScript
